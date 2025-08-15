@@ -59,8 +59,8 @@ The goal was to build an **interactive sales dashboard** with drill-down functio
 ---
 
 ## 🔗 Live Power BI Report
-[**Click here to view the interactive dashboard**](https://app.powerbi.com/view?r=YOUR_REPORT_LINK_HERE)
+[[**Click here to view the interactive dashboard**](https://app.powerbi.com/view?r=YOUR_REPORT_LINK_HERE)](https://app.powerbi.com/view?r=eyJrIjoiNGEwMzU4MTMtMzU2NS00YzAwLWJmNDUtMWU3ZDNmYmJiOWQ1IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9)
 
 ---
 
-## 📁 Repository Structure
+
